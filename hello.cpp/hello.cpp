@@ -37,30 +37,31 @@ using namespace std;
 //         cout<<"X is less than 100";
 //     }
 //add function    
-    int add(int a, int b)
-    {
-     return a+b ; 
-    }
-     int main(){
-     int a ;
-     int b;
-     cout<<"Enter a: "<<endl;
-     cin>> a  ;
-     cout<<"Enter b: "<<endl;
-     cin>> b  ;
+    // int add(int a, int b)
+    // {
+    //  return a+b ; 
+    // }
+    //  int main(){
+    //  int a ;
+    //  int b;
+    //  cout<<"Enter a: "<<endl;
+    //  cin>> a  ;
+    //  cout<<"Enter b: "<<endl;
+    //  cin>> b  ;
 
-     int sum = add(a,b);
-     cout<<"sum of "<< a <<" and " << b << " is : " <<sum<<endl;
+    //  int sum = add(a,b);
+    //  cout<<"sum of "<< a <<" and " << b << " is : " <<sum<<endl;
      
 
-     int x;
-     int y;
-     cout<<"Enter x: "<<endl;
-     cin>> x  ;
-     cout<<"Enter y: "<<endl;
-     cin>> y  ;
-     int addition = add(x,y);
-     cout<<"sum of "<< x <<" and " << y << " is : "<<  addition ;
-     return 0;
+    //  int x;
+    //  int y;
+    //  cout<<"Enter x: "<<endl;
+    //  cin>> x  ;
+    //  cout<<"Enter y: "<<endl;
+    //  cin>> y  ;
+    //  int addition = add(x,y);
+    //  cout<<"sum of "<< x <<" and " << y << " is : "<<  addition ;
+    //  return 0;
     
-    }
+    // }
+
