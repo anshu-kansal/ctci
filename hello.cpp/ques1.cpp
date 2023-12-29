@@ -1,4 +1,6 @@
-// Create a function called absolute_value that returns value of 
+// Create a function called absolute_value that returns absolute value of its single argument.
+//The absolute value of an integer x is the following: x (itself) 
+//if x is greater than or equal to 0; otherwise, it is x times −1.
 #include<iostream>
 using namespace std;
 int absolute_value(int x)
